@@ -1,0 +1,26 @@
+Liste de Taches a Faire
+-----------------------
+
+
+ok -	Recuperation token backend - frontend
+ok - 	test Api backend 
+ok -	recuperation des D du User 
+ok -	affichage des D dans un tableau
+ok -	choix du tableau et fonctionnalitées
+ok -	faire une interface drag and drop 
+ok -	modifier l'interface selon un modele precis 
+ok -	utlisation des bibliotheques MUIREACT 
+ok - NOK	representation en piechart le status des User
+	Mettre en grille les DrppedItems
+	Mise en default quelques D par exemple Utilisateurs connectés 
+	Possibilité de choisir les D pour une representation graphique
+
+	recuperation des données de la Queue
+	Affichage des D Queue
+	Séparer les DroppedItems en User / Queue
+	Graphiques pour User items / Queue items
+
+
+
+	
+	
